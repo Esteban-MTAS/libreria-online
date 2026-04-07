@@ -1,4 +1,4 @@
-# libreria-online
+# Biblioteca-online
 
 Proyecto final de **Programación Web** desarrollado con **HTML, CSS, Bootstrap, JavaScript, PHP y MySQL**.  
 Este sistema permite consultar el listado de libros y autores de una librería online, además de enviar mensajes mediante un formulario de contacto.
