@@ -1,0 +1,92 @@
+body {
+    min-height: 100vh;
+       background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+table th,
+table td {
+    vertical-align: middle;
+}
+
+.navbar-brand img {
+    border-radius: 8px;
+}
+
+.fondo-principal {
+    min-height: 420px;
+    background: linear-gradient(rgba(13, 110, 253, 0.85), rgba(13, 110, 253, 0.85)),
+                url("../assets/img/logo.png");
+    background-size: cover;
+    background-position: center;
+    padding: 80px 20px;
+}
+
+.fondo-principal h1 {
+    margin-bottom: 15px;
+}
+
+.fondo-principal p {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.borde-suave {
+    border: none;
+    border-radius: 15px;
+}
+
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card i {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+.table {
+    background-color: white;
+}
+
+.table thead th {
+    text-align: center;
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+}
+
+form .form-control,
+form textarea {
+    border-radius: 10px;
+}
+
+form .form-control:focus,
+form textarea:focus {
+    box-shadow: none;
+    border-color: #0d6efd;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+
